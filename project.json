@@ -1,0 +1,40 @@
+{
+  "title": "Jogo do Laboratório",
+  "date": "12-03-2018",
+  "description": {},
+  "meta_langs": [
+    "pt"
+  ],
+  "mainFile": "jogo_do_laboratorio.jclic",
+  "cover": "project-cover.jpg",
+  "thumbnail": "project-thumb.jpg",
+  "files": [
+    "abstrato_140_branco_1-resized.jpg",
+    "emoticon.png",
+    "estabilizador.jpg",
+    "favicon.ico",
+    "gabinete-resized.jpg",
+    "headset-resized.jpg",
+    "i01-gabinete-resized.jpg",
+    "icon-192.png",
+    "icon-72.png",
+    "impressora.jpg",
+    "imsmanifest.xml",
+    "index.html",
+    "jogo_do_laboratorio.jclic",
+    "jogo_do_laboratorio.jclic.js",
+    "microfone.jpg",
+    "monitor.jpg",
+    "mouse.png",
+    "mouse2.png",
+    "project-cover.jpg",
+    "project-thumb.jpg",
+    "project.json",
+    "roteador-resized.jpg",
+    "roteador2.jpg",
+    "teclado-2.jpg",
+    "teclado-resized.jpg",
+    "webcam-resized.jpg",
+    "webcam.jpg"
+  ]
+}
